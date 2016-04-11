@@ -10,6 +10,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //KEK
-        //TOP LEL THIS WILL BE REVERTED
     }
 }
